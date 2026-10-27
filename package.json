@@ -1,7 +1,11 @@
 {
   "name": "letters_generator",
   "private": true,
+<<<<<<< HEAD
   "version": "2.0.0",
+=======
+  "version": "1.0.0",
+>>>>>>> 7dc2b0aa387dfd5e7dc48c0c0de647dc4acf4a37
   "type": "module",
   "scripts": {
     "dev": "vite",
